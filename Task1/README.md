@@ -2,3 +2,6 @@
 ### Class Diagram
 
 <img src="https://github.com/archana95/SWE-Lab-Tasks/blob/master/Task1/Class_diagram.png" />
+
+
+by Archana G V
