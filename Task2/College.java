@@ -8,22 +8,7 @@ public class College {
 		c.getdata1();
 		Department d=new Department();
 		d.getdata2();
-		c.display();
-		/*void info2()
-		{
-			System.out.println("enter the college name \n");
-			Scanner input=new Scanner(System.in);
-			String coll;
-			coll=input.next();
-			
-		}*/
-		
-		
-		
-		
-		
-		
-		
+		c.display();		
 	}
 
 }
